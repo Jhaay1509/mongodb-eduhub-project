@@ -1,0 +1,888 @@
+[{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e55a"
+  },
+  "lesson_id": "lesson_2",
+  "course_id": "course_1",
+  "instructor_id": "instructor_2",
+  "title": "exploring Intro to Databases - Advanced Techniques",
+  "topic": "Advanced Techniques",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Advanced Techniques in Intro to Databases"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e55b"
+  },
+  "lesson_id": "lesson_3",
+  "course_id": "course_1",
+  "instructor_id": "instructor_2",
+  "title": "exploring Intro to Databases - Case Study",
+  "topic": "Case Study",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Case Study in Intro to Databases"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e55c"
+  },
+  "lesson_id": "lesson_4",
+  "course_id": "course_2",
+  "instructor_id": "instructor_3",
+  "title": "exploring Aggregation Piplines - Core Concepts",
+  "topic": "Core Concepts",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Core Concepts in Aggregation Piplines"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e55d"
+  },
+  "lesson_id": "lesson_5",
+  "course_id": "course_2",
+  "instructor_id": "instructor_3",
+  "title": "exploring Aggregation Piplines - Advanced Techniques",
+  "topic": "Advanced Techniques",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Advanced Techniques in Aggregation Piplines"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e55e"
+  },
+  "lesson_id": "lesson_6",
+  "course_id": "course_2",
+  "instructor_id": "instructor_3",
+  "title": "exploring Aggregation Piplines - Best Practices",
+  "topic": "Best Practices",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Best Practices in Aggregation Piplines"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e55f"
+  },
+  "lesson_id": "lesson_7",
+  "course_id": "course_3",
+  "instructor_id": "instructor_3",
+  "title": "exploring Python for Data - Advanced Techniques",
+  "topic": "Advanced Techniques",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Advanced Techniques in Python for Data"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e560"
+  },
+  "lesson_id": "lesson_8",
+  "course_id": "course_3",
+  "instructor_id": "instructor_3",
+  "title": "exploring Python for Data - Introduction",
+  "topic": "Introduction",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Introduction in Python for Data"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e561"
+  },
+  "lesson_id": "lesson_9",
+  "course_id": "course_3",
+  "instructor_id": "instructor_3",
+  "title": "exploring Python for Data - Assessment",
+  "topic": "Assessment",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Assessment in Python for Data"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e562"
+  },
+  "lesson_id": "lesson_10",
+  "course_id": "course_4",
+  "instructor_id": "instructor_1",
+  "title": "exploring Discrete Math - Case Study",
+  "topic": "Case Study",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Case Study in Discrete Math"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e563"
+  },
+  "lesson_id": "lesson_11",
+  "course_id": "course_4",
+  "instructor_id": "instructor_1",
+  "title": "exploring Discrete Math - Review",
+  "topic": "Review",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Review in Discrete Math"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e564"
+  },
+  "lesson_id": "lesson_12",
+  "course_id": "course_4",
+  "instructor_id": "instructor_1",
+  "title": "exploring Discrete Math - Best Practices",
+  "topic": "Best Practices",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Best Practices in Discrete Math"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e565"
+  },
+  "lesson_id": "lesson_13",
+  "course_id": "course_5",
+  "instructor_id": "instructor_4",
+  "title": "exploring NoSql - Troubleshooting",
+  "topic": "Troubleshooting",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Troubleshooting in NoSql"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e566"
+  },
+  "lesson_id": "lesson_14",
+  "course_id": "course_5",
+  "instructor_id": "instructor_4",
+  "title": "exploring NoSql - Review",
+  "topic": "Review",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Review in NoSql"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e567"
+  },
+  "lesson_id": "lesson_15",
+  "course_id": "course_5",
+  "instructor_id": "instructor_4",
+  "title": "exploring NoSql - Troubleshooting",
+  "topic": "Troubleshooting",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Troubleshooting in NoSql"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e568"
+  },
+  "lesson_id": "lesson_16",
+  "course_id": "course_6",
+  "instructor_id": "instructor_2",
+  "title": "exploring Algorithm 101 - Core Concepts",
+  "topic": "Core Concepts",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Core Concepts in Algorithm 101"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e569"
+  },
+  "lesson_id": "lesson_17",
+  "course_id": "course_6",
+  "instructor_id": "instructor_2",
+  "title": "exploring Algorithm 101 - Introduction",
+  "topic": "Introduction",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Introduction in Algorithm 101"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e56a"
+  },
+  "lesson_id": "lesson_18",
+  "course_id": "course_6",
+  "instructor_id": "instructor_2",
+  "title": "exploring Algorithm 101 - Optimization",
+  "topic": "Optimization",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Optimization in Algorithm 101"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e56b"
+  },
+  "lesson_id": "lesson_19",
+  "course_id": "course_7",
+  "instructor_id": "instructor_1",
+  "title": "exploring Devops Basics - Assessment",
+  "topic": "Assessment",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Assessment in Devops Basics"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e56c"
+  },
+  "lesson_id": "lesson_20",
+  "course_id": "course_7",
+  "instructor_id": "instructor_1",
+  "title": "exploring Devops Basics - Best Practices",
+  "topic": "Best Practices",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Best Practices in Devops Basics"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e56d"
+  },
+  "lesson_id": "lesson_21",
+  "course_id": "course_7",
+  "instructor_id": "instructor_1",
+  "title": "exploring Devops Basics - Hands-on Practice",
+  "topic": "Hands-on Practice",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Hands-on Practice in Devops Basics"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e56e"
+  },
+  "lesson_id": "lesson_22",
+  "course_id": "course_8",
+  "instructor_id": "instructor_4",
+  "title": "exploring Cloud Fundamentals - Core Concepts",
+  "topic": "Core Concepts",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Core Concepts in Cloud Fundamentals"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e56f"
+  },
+  "lesson_id": "lesson_23",
+  "course_id": "course_8",
+  "instructor_id": "instructor_4",
+  "title": "exploring Cloud Fundamentals - Best Practices",
+  "topic": "Best Practices",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Best Practices in Cloud Fundamentals"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e570"
+  },
+  "lesson_id": "lesson_24",
+  "course_id": "course_8",
+  "instructor_id": "instructor_4",
+  "title": "exploring Cloud Fundamentals - Introduction",
+  "topic": "Introduction",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Introduction in Cloud Fundamentals"
+},
+{
+  "_id": {
+    "$oid": "68e1858f43a8ff36f4d1e571"
+  },
+  "lesson_id": "lesson_25",
+  "course_id": "course_6",
+  "instructor_id": "instructor_2",
+  "title": "exploring Algorithm 101 - Introduction",
+  "topic": "Introduction",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Introduction in Algorithm 101"
+},
+{
+  "_id": {
+    "$oid": "68e1984343a8ff36f4d1e61d"
+  },
+  "lesson_id": "lesson_26",
+  "course_id": "course_6",
+  "instructor_id": "instructor_2",
+  "title": "Exploring Algorithm 101 - Introduction",
+  "topic": "Introduction",
+  "resources_url": "https://contentname@eduhub.com",
+  "description": "This lesson covers Introduction in Algorithm 101"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086cf"
+  },
+  "lesson_id": "lesson_2",
+  "course_id": "course_1",
+  "instructor_id": "user_19",
+  "title": "exploring Intro to Databases - Hands-on Practice",
+  "topic": "Hands-on Practice",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Hands-on Practice in Intro to Databases"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086d0"
+  },
+  "lesson_id": "lesson_3",
+  "course_id": "course_1",
+  "instructor_id": "user_19",
+  "title": "exploring Intro to Databases - Assessment",
+  "topic": "Assessment",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Assessment in Intro to Databases"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086d1"
+  },
+  "lesson_id": "lesson_4",
+  "course_id": "course_2",
+  "instructor_id": "user_17",
+  "title": "exploring Aggregation Piplines - Assessment",
+  "topic": "Assessment",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Assessment in Aggregation Piplines"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086d2"
+  },
+  "lesson_id": "lesson_5",
+  "course_id": "course_2",
+  "instructor_id": "user_17",
+  "title": "exploring Aggregation Piplines - Troubleshooting",
+  "topic": "Troubleshooting",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Troubleshooting in Aggregation Piplines"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086d3"
+  },
+  "lesson_id": "lesson_6",
+  "course_id": "course_2",
+  "instructor_id": "user_17",
+  "title": "exploring Aggregation Piplines - Optimization",
+  "topic": "Optimization",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Optimization in Aggregation Piplines"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086d4"
+  },
+  "lesson_id": "lesson_7",
+  "course_id": "course_3",
+  "instructor_id": "user_17",
+  "title": "exploring Python for Data - Assessment",
+  "topic": "Assessment",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Assessment in Python for Data"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086d5"
+  },
+  "lesson_id": "lesson_8",
+  "course_id": "course_3",
+  "instructor_id": "user_17",
+  "title": "exploring Python for Data - Review",
+  "topic": "Review",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Review in Python for Data"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086d6"
+  },
+  "lesson_id": "lesson_9",
+  "course_id": "course_3",
+  "instructor_id": "user_17",
+  "title": "exploring Python for Data - Hands-on Practice",
+  "topic": "Hands-on Practice",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Hands-on Practice in Python for Data"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086d7"
+  },
+  "lesson_id": "lesson_10",
+  "course_id": "course_4",
+  "instructor_id": "user_20",
+  "title": "exploring Discrete Math - Hands-on Practice",
+  "topic": "Hands-on Practice",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Hands-on Practice in Discrete Math"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086d8"
+  },
+  "lesson_id": "lesson_11",
+  "course_id": "course_4",
+  "instructor_id": "user_20",
+  "title": "exploring Discrete Math - Introduction",
+  "topic": "Introduction",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Introduction in Discrete Math"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086d9"
+  },
+  "lesson_id": "lesson_12",
+  "course_id": "course_4",
+  "instructor_id": "user_20",
+  "title": "exploring Discrete Math - Hands-on Practice",
+  "topic": "Hands-on Practice",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Hands-on Practice in Discrete Math"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086da"
+  },
+  "lesson_id": "lesson_13",
+  "course_id": "course_5",
+  "instructor_id": "user_17",
+  "title": "exploring NoSql - Hands-on Practice",
+  "topic": "Hands-on Practice",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Hands-on Practice in NoSql"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086db"
+  },
+  "lesson_id": "lesson_14",
+  "course_id": "course_5",
+  "instructor_id": "user_17",
+  "title": "exploring NoSql - Optimization",
+  "topic": "Optimization",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Optimization in NoSql"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086dc"
+  },
+  "lesson_id": "lesson_15",
+  "course_id": "course_5",
+  "instructor_id": "user_17",
+  "title": "exploring NoSql - Review",
+  "topic": "Review",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Review in NoSql"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086dd"
+  },
+  "lesson_id": "lesson_16",
+  "course_id": "course_6",
+  "instructor_id": "user_18",
+  "title": "exploring Algorithm 101 - Troubleshooting",
+  "topic": "Troubleshooting",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Troubleshooting in Algorithm 101"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086de"
+  },
+  "lesson_id": "lesson_17",
+  "course_id": "course_6",
+  "instructor_id": "user_18",
+  "title": "exploring Algorithm 101 - Best Practices",
+  "topic": "Best Practices",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Best Practices in Algorithm 101"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086df"
+  },
+  "lesson_id": "lesson_18",
+  "course_id": "course_6",
+  "instructor_id": "user_18",
+  "title": "exploring Algorithm 101 - Hands-on Practice",
+  "topic": "Hands-on Practice",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Hands-on Practice in Algorithm 101"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086e0"
+  },
+  "lesson_id": "lesson_19",
+  "course_id": "course_7",
+  "instructor_id": "user_17",
+  "title": "exploring Devops Basics - Advanced Techniques",
+  "topic": "Advanced Techniques",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Advanced Techniques in Devops Basics"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086e1"
+  },
+  "lesson_id": "lesson_20",
+  "course_id": "course_7",
+  "instructor_id": "user_17",
+  "title": "exploring Devops Basics - Best Practices",
+  "topic": "Best Practices",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Best Practices in Devops Basics"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086e2"
+  },
+  "lesson_id": "lesson_21",
+  "course_id": "course_7",
+  "instructor_id": "user_17",
+  "title": "exploring Devops Basics - Advanced Techniques",
+  "topic": "Advanced Techniques",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Advanced Techniques in Devops Basics"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086e3"
+  },
+  "lesson_id": "lesson_22",
+  "course_id": "course_8",
+  "instructor_id": "user_19",
+  "title": "exploring Cloud Fundamentals - Introduction",
+  "topic": "Introduction",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Introduction in Cloud Fundamentals"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086e4"
+  },
+  "lesson_id": "lesson_23",
+  "course_id": "course_8",
+  "instructor_id": "user_19",
+  "title": "exploring Cloud Fundamentals - Advanced Techniques",
+  "topic": "Advanced Techniques",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Advanced Techniques in Cloud Fundamentals"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086e5"
+  },
+  "lesson_id": "lesson_24",
+  "course_id": "course_8",
+  "instructor_id": "user_19",
+  "title": "exploring Cloud Fundamentals - Case Study",
+  "topic": "Case Study",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Case Study in Cloud Fundamentals"
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086e6"
+  },
+  "lesson_id": "lesson_25",
+  "course_id": "course_2",
+  "instructor_id": "user_17",
+  "title": "exploring Aggregation Piplines - Assessment",
+  "topic": "Assessment",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Assessment in Aggregation Piplines"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef29302f2"
+  },
+  "lesson_id": "lesson_2",
+  "course_id": "course_1",
+  "instructor_id": "user_17",
+  "title": "exploring Intro to Databases - Review",
+  "topic": "Review",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Review in Intro to Databases"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef29302f3"
+  },
+  "lesson_id": "lesson_3",
+  "course_id": "course_1",
+  "instructor_id": "user_17",
+  "title": "exploring Intro to Databases - Core Concepts",
+  "topic": "Core Concepts",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Core Concepts in Intro to Databases"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef29302f4"
+  },
+  "lesson_id": "lesson_4",
+  "course_id": "course_2",
+  "instructor_id": "user_17",
+  "title": "exploring Aggregation Piplines - Optimization",
+  "topic": "Optimization",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Optimization in Aggregation Piplines"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef29302f5"
+  },
+  "lesson_id": "lesson_5",
+  "course_id": "course_2",
+  "instructor_id": "user_17",
+  "title": "exploring Aggregation Piplines - Hands-on Practice",
+  "topic": "Hands-on Practice",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Hands-on Practice in Aggregation Piplines"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef29302f6"
+  },
+  "lesson_id": "lesson_6",
+  "course_id": "course_2",
+  "instructor_id": "user_17",
+  "title": "exploring Aggregation Piplines - Best Practices",
+  "topic": "Best Practices",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Best Practices in Aggregation Piplines"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef29302f7"
+  },
+  "lesson_id": "lesson_7",
+  "course_id": "course_3",
+  "instructor_id": "user_20",
+  "title": "exploring Python for Data - Troubleshooting",
+  "topic": "Troubleshooting",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Troubleshooting in Python for Data"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef29302f8"
+  },
+  "lesson_id": "lesson_8",
+  "course_id": "course_3",
+  "instructor_id": "user_20",
+  "title": "exploring Python for Data - Troubleshooting",
+  "topic": "Troubleshooting",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Troubleshooting in Python for Data"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef29302f9"
+  },
+  "lesson_id": "lesson_9",
+  "course_id": "course_3",
+  "instructor_id": "user_20",
+  "title": "exploring Python for Data - Best Practices",
+  "topic": "Best Practices",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Best Practices in Python for Data"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef29302fa"
+  },
+  "lesson_id": "lesson_10",
+  "course_id": "course_4",
+  "instructor_id": "user_20",
+  "title": "exploring Discrete Math - Best Practices",
+  "topic": "Best Practices",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Best Practices in Discrete Math"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef29302fb"
+  },
+  "lesson_id": "lesson_11",
+  "course_id": "course_4",
+  "instructor_id": "user_20",
+  "title": "exploring Discrete Math - Assessment",
+  "topic": "Assessment",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Assessment in Discrete Math"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef29302fc"
+  },
+  "lesson_id": "lesson_12",
+  "course_id": "course_4",
+  "instructor_id": "user_20",
+  "title": "exploring Discrete Math - Assessment",
+  "topic": "Assessment",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Assessment in Discrete Math"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef29302fd"
+  },
+  "lesson_id": "lesson_13",
+  "course_id": "course_5",
+  "instructor_id": "user_19",
+  "title": "exploring NoSql - Best Practices",
+  "topic": "Best Practices",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Best Practices in NoSql"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef29302fe"
+  },
+  "lesson_id": "lesson_14",
+  "course_id": "course_5",
+  "instructor_id": "user_19",
+  "title": "exploring NoSql - Optimization",
+  "topic": "Optimization",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Optimization in NoSql"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef29302ff"
+  },
+  "lesson_id": "lesson_15",
+  "course_id": "course_5",
+  "instructor_id": "user_19",
+  "title": "exploring NoSql - Troubleshooting",
+  "topic": "Troubleshooting",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Troubleshooting in NoSql"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930300"
+  },
+  "lesson_id": "lesson_16",
+  "course_id": "course_6",
+  "instructor_id": "user_17",
+  "title": "exploring Algorithm 101 - Core Concepts",
+  "topic": "Core Concepts",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Core Concepts in Algorithm 101"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930301"
+  },
+  "lesson_id": "lesson_17",
+  "course_id": "course_6",
+  "instructor_id": "user_17",
+  "title": "exploring Algorithm 101 - Advanced Techniques",
+  "topic": "Advanced Techniques",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Advanced Techniques in Algorithm 101"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930302"
+  },
+  "lesson_id": "lesson_18",
+  "course_id": "course_6",
+  "instructor_id": "user_17",
+  "title": "exploring Algorithm 101 - Assessment",
+  "topic": "Assessment",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Assessment in Algorithm 101"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930303"
+  },
+  "lesson_id": "lesson_19",
+  "course_id": "course_7",
+  "instructor_id": "user_17",
+  "title": "exploring Devops Basics - Review",
+  "topic": "Review",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Review in Devops Basics"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930304"
+  },
+  "lesson_id": "lesson_20",
+  "course_id": "course_7",
+  "instructor_id": "user_17",
+  "title": "exploring Devops Basics - Optimization",
+  "topic": "Optimization",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Optimization in Devops Basics"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930305"
+  },
+  "lesson_id": "lesson_21",
+  "course_id": "course_7",
+  "instructor_id": "user_17",
+  "title": "exploring Devops Basics - Optimization",
+  "topic": "Optimization",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Optimization in Devops Basics"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930306"
+  },
+  "lesson_id": "lesson_22",
+  "course_id": "course_8",
+  "instructor_id": "user_18",
+  "title": "exploring Cloud Fundamentals - Hands-on Practice",
+  "topic": "Hands-on Practice",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Hands-on Practice in Cloud Fundamentals"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930307"
+  },
+  "lesson_id": "lesson_23",
+  "course_id": "course_8",
+  "instructor_id": "user_18",
+  "title": "exploring Cloud Fundamentals - Optimization",
+  "topic": "Optimization",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Optimization in Cloud Fundamentals"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930308"
+  },
+  "lesson_id": "lesson_24",
+  "course_id": "course_8",
+  "instructor_id": "user_18",
+  "title": "exploring Cloud Fundamentals - Core Concepts",
+  "topic": "Core Concepts",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Core Concepts in Cloud Fundamentals"
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930309"
+  },
+  "lesson_id": "lesson_25",
+  "course_id": "course_5",
+  "instructor_id": "user_19",
+  "title": "exploring NoSql - Core Concepts",
+  "topic": "Core Concepts",
+  "resources_url": "hhtps://contentname@eduhub.com",
+  "description": "This lesson covers Core Concepts in NoSql"
+},
+{
+  "_id": {
+    "$oid": "68e2e45bc3defe6ef293035b"
+  },
+  "lesson_id": "lesson_26",
+  "course_id": "course_9",
+  "instructor_id": "user_18",
+  "title": "Exploring Data Visualization Fundamentals - Core Concepts",
+  "topic": "Core Concepts",
+  "resources_url": "https://contentname@eduhub.com",
+  "description": "This lesson covers Core Concepts in Data Visualization Fundamentals"
+}]

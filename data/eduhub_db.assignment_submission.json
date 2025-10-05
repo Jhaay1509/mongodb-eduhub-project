@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "68e2e500c3defe6ef293035c"
+  },
+  "submission_id": "submission_1",
+  "description": "This assignment should be submitted in PDF format before the due date",
+  "submission_date": {
+    "$date": "2025-10-26T00:00:00.000Z"
+  },
+  "isSubmitted": true,
+  "submission_link": "submission@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68e2e500c3defe6ef293035d"
+  },
+  "submission_id": "submission_2",
+  "description": "This assignment should be submitted in PDF format before the due date",
+  "submission_date": {
+    "$date": "2025-10-28T00:00:00.000Z"
+  },
+  "isSubmitted": true,
+  "submission_link": "submission@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68e2e500c3defe6ef293035e"
+  },
+  "submission_id": "submission_3",
+  "description": "This assignment should be submitted in PDF format before the due date",
+  "submission_date": {
+    "$date": "2025-11-01T00:00:00.000Z"
+  },
+  "isSubmitted": false,
+  "submission_link": "submission@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68e2e500c3defe6ef293035f"
+  },
+  "submission_id": "submission_4",
+  "description": "This assignment should be submitted in PDF format before the due date",
+  "submission_date": {
+    "$date": "2025-11-01T00:00:00.000Z"
+  },
+  "isSubmitted": false,
+  "submission_link": "submission@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68e2e500c3defe6ef2930360"
+  },
+  "submission_id": "submission_5",
+  "description": "This assignment should be submitted in PDF format before the due date",
+  "submission_date": {
+    "$date": "2025-10-29T00:00:00.000Z"
+  },
+  "isSubmitted": true,
+  "submission_link": "submission@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68e2e500c3defe6ef2930361"
+  },
+  "submission_id": "submission_6",
+  "description": "This assignment should be submitted in PDF format before the due date",
+  "submission_date": {
+    "$date": "2025-11-01T00:00:00.000Z"
+  },
+  "isSubmitted": false,
+  "submission_link": "submission@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68e2e500c3defe6ef2930362"
+  },
+  "submission_id": "submission_7",
+  "description": "This assignment should be submitted in PDF format before the due date",
+  "submission_date": {
+    "$date": "2025-10-26T00:00:00.000Z"
+  },
+  "isSubmitted": true,
+  "submission_link": "submission@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68e2e500c3defe6ef2930363"
+  },
+  "submission_id": "submission_8",
+  "description": "This assignment should be submitted in PDF format before the due date",
+  "submission_date": {
+    "$date": "2025-10-31T00:00:00.000Z"
+  },
+  "isSubmitted": false,
+  "submission_link": "submission@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68e2e500c3defe6ef2930364"
+  },
+  "submission_id": "submission_9",
+  "description": "This assignment should be submitted in PDF format before the due date",
+  "submission_date": {
+    "$date": "2025-11-01T00:00:00.000Z"
+  },
+  "isSubmitted": false,
+  "submission_link": "submission@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68e2e500c3defe6ef2930365"
+  },
+  "submission_id": "submission_10",
+  "description": "This assignment should be submitted in PDF format before the due date",
+  "submission_date": {
+    "$date": "2025-10-29T00:00:00.000Z"
+  },
+  "isSubmitted": true,
+  "submission_link": "submission@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68e2e500c3defe6ef2930366"
+  },
+  "submission_id": "submission_11",
+  "description": "This assignment should be submitted in PDF format before the due date",
+  "submission_date": {
+    "$date": "2025-10-28T00:00:00.000Z"
+  },
+  "isSubmitted": true,
+  "submission_link": "submission@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68e2e500c3defe6ef2930367"
+  },
+  "submission_id": "submission_12",
+  "description": "This assignment should be submitted in PDF format before the due date",
+  "submission_date": {
+    "$date": "2025-11-01T00:00:00.000Z"
+  },
+  "isSubmitted": false,
+  "submission_link": "submission@eduhub.com"
+}]

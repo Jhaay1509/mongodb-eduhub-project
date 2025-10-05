@@ -1,0 +1,704 @@
+[{
+  "_id": {
+    "$oid": "68e293c543a8ff36f4d1e6f8"
+  },
+  "course_id": "course_1",
+  "title": "Intro to Databases",
+  "description": "introduction to Intro to Databases",
+  "instructorId": "user_20",
+  "category": "cs",
+  "level": "advanced",
+  "duration": 8,
+  "price": 49,
+  "tag": [
+    "devops",
+    "etl",
+    "mongo",
+    "database"
+  ],
+  "rating": 3.3,
+  "createdAt": {
+    "$date": "2025-10-05T16:50:29.408Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T16:50:29.408Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e293c543a8ff36f4d1e6f9"
+  },
+  "course_id": "course_2",
+  "title": "Aggregation Piplines",
+  "description": "introduction to Aggregation Piplines",
+  "instructorId": "user_19",
+  "category": "math",
+  "level": "intermediate",
+  "duration": 10,
+  "price": 29,
+  "tag": [
+    "devops",
+    "cloud",
+    "math"
+  ],
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2025-10-05T16:50:29.408Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T16:50:29.408Z"
+  },
+  "isPublished": true,
+  "ispublished": "True"
+},
+{
+  "_id": {
+    "$oid": "68e293c543a8ff36f4d1e6fa"
+  },
+  "course_id": "course_3",
+  "title": "Python for Data",
+  "description": "introduction to Python for Data",
+  "instructorId": "user_18",
+  "category": "math",
+  "level": "beginner",
+  "duration": 8,
+  "price": 49,
+  "tag": [
+    "mongo",
+    "etl",
+    "devops"
+  ],
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2025-10-05T16:50:29.408Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T16:50:29.408Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e293c543a8ff36f4d1e6fb"
+  },
+  "course_id": "course_4",
+  "title": "Discrete Math",
+  "description": "introduction to Discrete Math",
+  "instructorId": "user_20",
+  "category": "math",
+  "level": "intermediate",
+  "duration": 6,
+  "price": 0,
+  "tag": [
+    "etl",
+    "cloud",
+    "python"
+  ],
+  "rating": 3.1,
+  "createdAt": {
+    "$date": "2025-10-05T16:50:29.408Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T16:50:29.408Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e293c543a8ff36f4d1e6fc"
+  },
+  "course_id": "course_5",
+  "title": "NoSql",
+  "description": "introduction to NoSql",
+  "instructorId": "user_18",
+  "category": "cs",
+  "level": "intermediate",
+  "duration": 10,
+  "price": 79,
+  "tag": [
+    "math",
+    "etl",
+    "devops"
+  ],
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2025-10-05T16:50:29.408Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T16:50:29.408Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e293c543a8ff36f4d1e6fd"
+  },
+  "course_id": "course_6",
+  "title": "Algorithm 101",
+  "description": "introduction to Algorithm 101",
+  "instructorId": "user_18",
+  "category": "math",
+  "level": "beginner",
+  "duration": 10,
+  "price": 0,
+  "tag": [
+    "python",
+    "math",
+    "mongo"
+  ],
+  "rating": 4.7,
+  "createdAt": {
+    "$date": "2025-10-05T16:50:29.409Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T16:50:29.409Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e293c543a8ff36f4d1e6fe"
+  },
+  "course_id": "course_7",
+  "title": "Devops Basics",
+  "description": "introduction to Devops Basics",
+  "instructorId": "user_19",
+  "category": "math",
+  "level": "intermediate",
+  "duration": 8,
+  "price": 0,
+  "tag": [
+    "math",
+    "etl",
+    "devops"
+  ],
+  "rating": 4.3,
+  "createdAt": {
+    "$date": "2025-10-05T16:50:29.409Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T16:50:29.409Z"
+  },
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "68e293c543a8ff36f4d1e6ff"
+  },
+  "course_id": "course_8",
+  "title": "Cloud Fundamentals",
+  "description": "introduction to Cloud Fundamentals",
+  "instructorId": "user_17",
+  "category": "cs",
+  "level": "beginner",
+  "duration": 6,
+  "price": 49,
+  "tag": [
+    "python",
+    "mongo",
+    "cloud"
+  ],
+  "rating": 3.4,
+  "createdAt": {
+    "$date": "2025-10-05T16:50:29.409Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T16:50:29.409Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e293e943a8ff36f4d1e700"
+  },
+  "course_id": "course_9",
+  "title": "Data Visualization Fundamentals",
+  "description": "Introduction to data visualization tools and principles using Python and modern libraries.",
+  "instructorId": "user_20",
+  "category": "data",
+  "level": "beginner",
+  "duration": 8,
+  "price": 49,
+  "tag": [
+    "python",
+    "data",
+    "visualization"
+  ],
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2025-10-05T16:51:05.829Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T16:51:05.829Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086c5"
+  },
+  "course_id": "course_1",
+  "title": "Intro to Databases",
+  "description": "introduction to Intro to Databases",
+  "instructorId": "user_19",
+  "category": "math",
+  "level": "advanced",
+  "duration": 10,
+  "price": 29,
+  "tag": [
+    "python",
+    "mongo",
+    "cloud"
+  ],
+  "rating": 3.1,
+  "createdAt": {
+    "$date": "2025-10-05T21:47:24.934Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T21:47:24.934Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086c6"
+  },
+  "course_id": "course_2",
+  "title": "Aggregation Piplines",
+  "description": "introduction to Aggregation Piplines",
+  "instructorId": "user_17",
+  "category": "data",
+  "level": "advanced",
+  "duration": 8,
+  "price": 29,
+  "tag": [
+    "cloud",
+    "math",
+    "etl"
+  ],
+  "rating": 3.2,
+  "createdAt": {
+    "$date": "2025-10-05T21:47:24.934Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T21:47:24.934Z"
+  },
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086c7"
+  },
+  "course_id": "course_3",
+  "title": "Python for Data",
+  "description": "introduction to Python for Data",
+  "instructorId": "user_17",
+  "category": "data",
+  "level": "intermediate",
+  "duration": 8,
+  "price": 49,
+  "tag": [
+    "math",
+    "devops",
+    "python"
+  ],
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2025-10-05T21:47:24.934Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T21:47:24.934Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086c8"
+  },
+  "course_id": "course_4",
+  "title": "Discrete Math",
+  "description": "introduction to Discrete Math",
+  "instructorId": "user_20",
+  "category": "math",
+  "level": "beginner",
+  "duration": 12,
+  "price": 79,
+  "tag": [
+    "mongo",
+    "python",
+    "devops"
+  ],
+  "rating": 4.1,
+  "createdAt": {
+    "$date": "2025-10-05T21:47:24.934Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T21:47:24.934Z"
+  },
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086c9"
+  },
+  "course_id": "course_5",
+  "title": "NoSql",
+  "description": "introduction to NoSql",
+  "instructorId": "user_17",
+  "category": "cs",
+  "level": "intermediate",
+  "duration": 8,
+  "price": 0,
+  "tag": [
+    "math",
+    "devops",
+    "etl"
+  ],
+  "rating": 4.2,
+  "createdAt": {
+    "$date": "2025-10-05T21:47:24.935Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T21:47:24.935Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086ca"
+  },
+  "course_id": "course_6",
+  "title": "Algorithm 101",
+  "description": "introduction to Algorithm 101",
+  "instructorId": "user_18",
+  "category": "cs",
+  "level": "intermediate",
+  "duration": 12,
+  "price": 29,
+  "tag": [
+    "math",
+    "python",
+    "etl"
+  ],
+  "rating": 3.7,
+  "createdAt": {
+    "$date": "2025-10-05T21:47:24.935Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T21:47:24.935Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086cb"
+  },
+  "course_id": "course_7",
+  "title": "Devops Basics",
+  "description": "introduction to Devops Basics",
+  "instructorId": "user_17",
+  "category": "cloud",
+  "level": "beginner",
+  "duration": 8,
+  "price": 0,
+  "tag": [
+    "etl",
+    "devops",
+    "mongo"
+  ],
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2025-10-05T21:47:24.935Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T21:47:24.935Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086cc"
+  },
+  "course_id": "course_8",
+  "title": "Cloud Fundamentals",
+  "description": "introduction to Cloud Fundamentals",
+  "instructorId": "user_19",
+  "category": "math",
+  "level": "intermediate",
+  "duration": 12,
+  "price": 79,
+  "tag": [
+    "mongo",
+    "math",
+    "devops"
+  ],
+  "rating": 3.2,
+  "createdAt": {
+    "$date": "2025-10-05T21:47:24.935Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T21:47:24.935Z"
+  },
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "68e2dc56c3defe6ef29302e8"
+  },
+  "course_id": "course_1",
+  "title": "Intro to Databases",
+  "description": "introduction to Intro to Databases",
+  "instructorId": "user_17",
+  "category": "cs",
+  "level": "beginner",
+  "duration": 10,
+  "price": 29,
+  "tag": [
+    "math",
+    "cloud",
+    "devops"
+  ],
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2025-10-05T22:00:06.942Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T22:00:06.942Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e2dc56c3defe6ef29302e9"
+  },
+  "course_id": "course_2",
+  "title": "Aggregation Piplines",
+  "description": "introduction to Aggregation Piplines",
+  "instructorId": "user_17",
+  "category": "math",
+  "level": "intermediate",
+  "duration": 10,
+  "price": 0,
+  "tag": [
+    "math",
+    "cloud",
+    "etl"
+  ],
+  "rating": 3,
+  "createdAt": {
+    "$date": "2025-10-05T22:00:06.942Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T22:00:06.942Z"
+  },
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "68e2dc56c3defe6ef29302ea"
+  },
+  "course_id": "course_3",
+  "title": "Python for Data",
+  "description": "introduction to Python for Data",
+  "instructorId": "user_20",
+  "category": "math",
+  "level": "advanced",
+  "duration": 8,
+  "price": 49,
+  "tag": [
+    "etl",
+    "devops",
+    "mongo"
+  ],
+  "rating": 3.9,
+  "createdAt": {
+    "$date": "2025-10-05T22:00:06.942Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T22:00:06.942Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e2dc56c3defe6ef29302eb"
+  },
+  "course_id": "course_4",
+  "title": "Discrete Math",
+  "description": "introduction to Discrete Math",
+  "instructorId": "user_20",
+  "category": "math",
+  "level": "intermediate",
+  "duration": 8,
+  "price": 79,
+  "tag": [
+    "etl",
+    "cloud",
+    "mongo"
+  ],
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2025-10-05T22:00:06.942Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T22:00:06.942Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e2dc56c3defe6ef29302ec"
+  },
+  "course_id": "course_5",
+  "title": "NoSql",
+  "description": "introduction to NoSql",
+  "instructorId": "user_19",
+  "category": "data",
+  "level": "beginner",
+  "duration": 8,
+  "price": 49,
+  "tag": [
+    "devops",
+    "python",
+    "etl"
+  ],
+  "rating": 3.5,
+  "createdAt": {
+    "$date": "2025-10-05T22:00:06.942Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T22:00:06.942Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e2dc56c3defe6ef29302ed"
+  },
+  "course_id": "course_6",
+  "title": "Algorithm 101",
+  "description": "introduction to Algorithm 101",
+  "instructorId": "user_17",
+  "category": "math",
+  "level": "intermediate",
+  "duration": 10,
+  "price": 0,
+  "tag": [
+    "etl",
+    "mongo",
+    "cloud"
+  ],
+  "rating": 3.9,
+  "createdAt": {
+    "$date": "2025-10-05T22:00:06.942Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T22:00:06.942Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e2dc56c3defe6ef29302ee"
+  },
+  "course_id": "course_7",
+  "title": "Devops Basics",
+  "description": "introduction to Devops Basics",
+  "instructorId": "user_17",
+  "category": "math",
+  "level": "intermediate",
+  "duration": 8,
+  "price": 0,
+  "tag": [
+    "cloud",
+    "python",
+    "math"
+  ],
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2025-10-05T22:00:06.942Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T22:00:06.942Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e2dc56c3defe6ef29302ef"
+  },
+  "course_id": "course_8",
+  "title": "Cloud Fundamentals",
+  "description": "introduction to Cloud Fundamentals",
+  "instructorId": "user_18",
+  "category": "math",
+  "level": "advanced",
+  "duration": 6,
+  "price": 0,
+  "tag": [
+    "math",
+    "python",
+    "devops"
+  ],
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2025-10-05T22:00:06.942Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T22:00:06.942Z"
+  },
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930337"
+  },
+  "course_id": "course_9",
+  "title": "Data Visualization Fundamentals",
+  "description": "Introduction to data visualization tools and principles using Python and modern libraries.",
+  "instructorId": "user_18",
+  "category": "data",
+  "level": "beginner",
+  "duration": 8,
+  "price": 49,
+  "tag": [
+    "python",
+    "data",
+    "visualization"
+  ],
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2025-10-05T22:00:07.142Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T22:00:07.142Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e2e45bc3defe6ef2930359"
+  },
+  "course_id": "course_9",
+  "title": "Data Visualization Fundamentals",
+  "description": "Introduction to data visualization tools and principles using Python and modern libraries.",
+  "instructorId": "user_17",
+  "category": "data",
+  "level": "beginner",
+  "duration": 8,
+  "price": 49,
+  "tag": [
+    "python",
+    "data",
+    "visualization"
+  ],
+  "rating": 3.8,
+  "createdAt": {
+    "$date": "2025-10-05T22:34:19.223Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T22:34:19.223Z"
+  },
+  "isPublished": true
+}]

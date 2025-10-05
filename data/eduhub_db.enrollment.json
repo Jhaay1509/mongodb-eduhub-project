@@ -1,0 +1,540 @@
+[{
+  "_id": {
+    "$oid": "68e26c4743a8ff36f4d1e651"
+  },
+  "enrollment_id": "enrollment_2",
+  "course_id": "course_5",
+  "student_id": "user_2",
+  "enrollment_date": {
+    "$date": "2024-10-02T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e26c4743a8ff36f4d1e652"
+  },
+  "enrollment_id": "enrollment_3",
+  "course_id": "course_2",
+  "student_id": "user_3",
+  "enrollment_date": {
+    "$date": "2024-10-18T00:00:00.000Z"
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e26c4743a8ff36f4d1e653"
+  },
+  "enrollment_id": "enrollment_4",
+  "course_id": "course_3",
+  "student_id": "user_4",
+  "enrollment_date": {
+    "$date": "2024-10-24T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e26c4743a8ff36f4d1e654"
+  },
+  "enrollment_id": "enrollment_5",
+  "course_id": "course_3",
+  "student_id": "user_5",
+  "enrollment_date": {
+    "$date": "2024-10-15T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e26c4743a8ff36f4d1e655"
+  },
+  "enrollment_id": "enrollment_6",
+  "course_id": "course_1",
+  "student_id": "user_6",
+  "enrollment_date": {
+    "$date": "2024-10-04T00:00:00.000Z"
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e26c4743a8ff36f4d1e656"
+  },
+  "enrollment_id": "enrollment_7",
+  "course_id": "course_5",
+  "student_id": "user_7",
+  "enrollment_date": {
+    "$date": "2024-10-22T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e26c4743a8ff36f4d1e657"
+  },
+  "enrollment_id": "enrollment_8",
+  "course_id": "course_4",
+  "student_id": "user_8",
+  "enrollment_date": {
+    "$date": "2024-10-20T00:00:00.000Z"
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e26c4743a8ff36f4d1e658"
+  },
+  "enrollment_id": "enrollment_9",
+  "course_id": "course_1",
+  "student_id": "user_9",
+  "enrollment_date": {
+    "$date": "2024-10-03T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e26c4743a8ff36f4d1e659"
+  },
+  "enrollment_id": "enrollment_10",
+  "course_id": "course_1",
+  "student_id": "user_10",
+  "enrollment_date": {
+    "$date": "2024-10-25T00:00:00.000Z"
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e26c4743a8ff36f4d1e65a"
+  },
+  "enrollment_id": "enrollment_11",
+  "course_id": "course_3",
+  "student_id": "user_11",
+  "enrollment_date": {
+    "$date": "2024-10-13T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e26c4743a8ff36f4d1e65b"
+  },
+  "enrollment_id": "enrollment_12",
+  "course_id": "course_7",
+  "student_id": "user_12",
+  "enrollment_date": {
+    "$date": "2024-10-25T00:00:00.000Z"
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e26c4743a8ff36f4d1e65c"
+  },
+  "enrollment_id": "enrollment_13",
+  "course_id": "course_8",
+  "student_id": "user_13",
+  "enrollment_date": {
+    "$date": "2024-10-28T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e26c4743a8ff36f4d1e65d"
+  },
+  "enrollment_id": "enrollment_14",
+  "course_id": "course_5",
+  "student_id": "user_14",
+  "enrollment_date": {
+    "$date": "2024-10-23T00:00:00.000Z"
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e26c4743a8ff36f4d1e65e"
+  },
+  "enrollment_id": "enrollment_15",
+  "course_id": "course_5",
+  "student_id": "user_15",
+  "enrollment_date": {
+    "$date": "2024-10-22T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e26c6d43a8ff36f4d1e660"
+  },
+  "enrollment_id": "enrollment_16",
+  "course_id": "course_2",
+  "student_id": "student_16",
+  "enrollment_date": {
+    "$date": "2024-10-27T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930327"
+  },
+  "enrollment_id": "enrollment_2",
+  "course_id": "course_2",
+  "student_id": "user_2",
+  "enrollment_date": {
+    "$date": "2024-10-16T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930328"
+  },
+  "enrollment_id": "enrollment_3",
+  "course_id": "course_8",
+  "student_id": "user_3",
+  "enrollment_date": {
+    "$date": "2024-10-27T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930329"
+  },
+  "enrollment_id": "enrollment_4",
+  "course_id": "course_6",
+  "student_id": "user_4",
+  "enrollment_date": {
+    "$date": "2024-10-08T00:00:00.000Z"
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef293032a"
+  },
+  "enrollment_id": "enrollment_5",
+  "course_id": "course_2",
+  "student_id": "user_5",
+  "enrollment_date": {
+    "$date": "2024-10-27T00:00:00.000Z"
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef293032b"
+  },
+  "enrollment_id": "enrollment_6",
+  "course_id": "course_3",
+  "student_id": "user_6",
+  "enrollment_date": {
+    "$date": "2024-10-20T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef293032c"
+  },
+  "enrollment_id": "enrollment_7",
+  "course_id": "course_4",
+  "student_id": "user_7",
+  "enrollment_date": {
+    "$date": "2024-10-11T00:00:00.000Z"
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef293032d"
+  },
+  "enrollment_id": "enrollment_8",
+  "course_id": "course_8",
+  "student_id": "user_8",
+  "enrollment_date": {
+    "$date": "2024-10-17T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef293032e"
+  },
+  "enrollment_id": "enrollment_9",
+  "course_id": "course_1",
+  "student_id": "user_9",
+  "enrollment_date": {
+    "$date": "2024-10-21T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef293032f"
+  },
+  "enrollment_id": "enrollment_10",
+  "course_id": "course_5",
+  "student_id": "user_10",
+  "enrollment_date": {
+    "$date": "2024-10-13T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930330"
+  },
+  "enrollment_id": "enrollment_11",
+  "course_id": "course_2",
+  "student_id": "user_11",
+  "enrollment_date": {
+    "$date": "2024-10-11T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930331"
+  },
+  "enrollment_id": "enrollment_12",
+  "course_id": "course_8",
+  "student_id": "user_12",
+  "enrollment_date": {
+    "$date": "2024-10-08T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930332"
+  },
+  "enrollment_id": "enrollment_13",
+  "course_id": "course_7",
+  "student_id": "user_13",
+  "enrollment_date": {
+    "$date": "2024-10-08T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930333"
+  },
+  "enrollment_id": "enrollment_14",
+  "course_id": "course_2",
+  "student_id": "user_14",
+  "enrollment_date": {
+    "$date": "2024-10-23T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930334"
+  },
+  "enrollment_id": "enrollment_15",
+  "course_id": "course_2",
+  "student_id": "user_15",
+  "enrollment_date": {
+    "$date": "2024-10-07T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930338"
+  },
+  "enrollment_id": "enrollment_16",
+  "course_id": "course_6",
+  "student_id": "student_16",
+  "enrollment_date": {
+    "$date": "2024-10-11T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2e45bc3defe6ef2930349"
+  },
+  "enrollment_id": "enrollment_2",
+  "course_id": "course_4",
+  "student_id": "user_2",
+  "enrollment_date": {
+    "$date": "2024-10-21T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2e45bc3defe6ef293034a"
+  },
+  "enrollment_id": "enrollment_3",
+  "course_id": "course_7",
+  "student_id": "user_3",
+  "enrollment_date": {
+    "$date": "2024-10-12T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2e45bc3defe6ef293034b"
+  },
+  "enrollment_id": "enrollment_4",
+  "course_id": "course_7",
+  "student_id": "user_4",
+  "enrollment_date": {
+    "$date": "2024-10-18T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2e45bc3defe6ef293034c"
+  },
+  "enrollment_id": "enrollment_5",
+  "course_id": "course_4",
+  "student_id": "user_5",
+  "enrollment_date": {
+    "$date": "2024-10-27T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2e45bc3defe6ef293034d"
+  },
+  "enrollment_id": "enrollment_6",
+  "course_id": "course_6",
+  "student_id": "user_6",
+  "enrollment_date": {
+    "$date": "2024-10-16T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2e45bc3defe6ef293034e"
+  },
+  "enrollment_id": "enrollment_7",
+  "course_id": "course_2",
+  "student_id": "user_7",
+  "enrollment_date": {
+    "$date": "2024-10-03T00:00:00.000Z"
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e2e45bc3defe6ef293034f"
+  },
+  "enrollment_id": "enrollment_8",
+  "course_id": "course_2",
+  "student_id": "user_8",
+  "enrollment_date": {
+    "$date": "2024-10-12T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2e45bc3defe6ef2930350"
+  },
+  "enrollment_id": "enrollment_9",
+  "course_id": "course_8",
+  "student_id": "user_9",
+  "enrollment_date": {
+    "$date": "2024-10-04T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2e45bc3defe6ef2930351"
+  },
+  "enrollment_id": "enrollment_10",
+  "course_id": "course_5",
+  "student_id": "user_10",
+  "enrollment_date": {
+    "$date": "2024-10-12T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2e45bc3defe6ef2930352"
+  },
+  "enrollment_id": "enrollment_11",
+  "course_id": "course_8",
+  "student_id": "user_11",
+  "enrollment_date": {
+    "$date": "2024-10-16T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2e45bc3defe6ef2930353"
+  },
+  "enrollment_id": "enrollment_12",
+  "course_id": "course_5",
+  "student_id": "user_12",
+  "enrollment_date": {
+    "$date": "2024-10-10T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2e45bc3defe6ef2930354"
+  },
+  "enrollment_id": "enrollment_13",
+  "course_id": "course_4",
+  "student_id": "user_13",
+  "enrollment_date": {
+    "$date": "2024-10-02T00:00:00.000Z"
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e2e45bc3defe6ef2930355"
+  },
+  "enrollment_id": "enrollment_14",
+  "course_id": "course_1",
+  "student_id": "user_14",
+  "enrollment_date": {
+    "$date": "2024-10-10T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2e45bc3defe6ef2930356"
+  },
+  "enrollment_id": "enrollment_15",
+  "course_id": "course_1",
+  "student_id": "user_15",
+  "enrollment_date": {
+    "$date": "2024-10-20T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2e45bc3defe6ef293035a"
+  },
+  "enrollment_id": "enrollment_16",
+  "course_id": "course_3",
+  "student_id": "student_16",
+  "enrollment_date": {
+    "$date": "2024-10-13T00:00:00.000Z"
+  },
+  "is_active": true
+}]

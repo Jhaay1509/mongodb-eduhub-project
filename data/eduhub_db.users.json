@@ -1,0 +1,1104 @@
+[{
+  "_id": {
+    "$oid": "68e28c3743a8ff36f4d1e6ca"
+  },
+  "user_id": "user_1",
+  "first_name": "Musa",
+  "last_name": "Onyia",
+  "email": "musa.onyia@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T16:18:15.675Z"
+  },
+  "profile": {
+    "bio": "I am Musa, based in Davidton with interest in data analysis and data processing",
+    "avatar": "blessed_assurance",
+    "skills": [
+      "data warehousing",
+      "it",
+      "data integration",
+      "designing"
+    ]
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e28c3743a8ff36f4d1e6cb"
+  },
+  "user_id": "user_2",
+  "first_name": "Kunle",
+  "last_name": "Balogun",
+  "email": "kunle.balogun@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T16:18:15.675Z"
+  },
+  "profile": {
+    "bio": "I am Kunle, based in West Stacy with interest in reading and data warehousing",
+    "avatar": "brutal_tenancious",
+    "skills": [
+      "it",
+      "data retrieval",
+      "blockchain",
+      "hr"
+    ]
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e28c3743a8ff36f4d1e6cc"
+  },
+  "user_id": "user_3",
+  "first_name": "Adanna",
+  "last_name": "Uche",
+  "email": "adanna.uche@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T16:18:15.675Z"
+  },
+  "profile": {
+    "bio": "I am Adanna, based in Lake Pamelaton with interest in data storage and it",
+    "avatar": "brutal_tenancious",
+    "skills": [
+      "data transformation",
+      "cybersecurity",
+      "data retrieval",
+      "data warehousing"
+    ]
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e28c3743a8ff36f4d1e6cd"
+  },
+  "user_id": "user_4",
+  "first_name": "Olu",
+  "last_name": "Ogbonna",
+  "email": "olu.ogbonna@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T16:18:15.675Z"
+  },
+  "profile": {
+    "bio": "I am Olu, based in Harmonfurt with interest in iot and data processing",
+    "avatar": "brutal_tenancious",
+    "skills": [
+      "data loading",
+      "data processing",
+      "data analysis",
+      "data visualization"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e28c3743a8ff36f4d1e6ce"
+  },
+  "user_id": "user_5",
+  "first_name": "Yusuf",
+  "last_name": "Aliyu",
+  "email": "yusuf.aliyu@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T16:18:15.675Z"
+  },
+  "profile": {
+    "bio": "I am Yusuf, based in Ashleymouth with interest in coding and data visualization",
+    "avatar": "stay_wicked",
+    "skills": [
+      "data loading",
+      "data mining",
+      "data transformation",
+      "sales"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e28c3743a8ff36f4d1e6cf"
+  },
+  "user_id": "user_6",
+  "first_name": "Grace",
+  "last_name": "Bello",
+  "email": "grace.bello@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T16:18:15.676Z"
+  },
+  "profile": {
+    "bio": "I am Grace, based in South Kevinborough with interest in data warehousing and data loading",
+    "avatar": "brutal_tenancious",
+    "skills": [
+      "marketing",
+      "data warehousing",
+      "cybersecurity",
+      "mobile"
+    ]
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e28c3743a8ff36f4d1e6d0"
+  },
+  "user_id": "user_7",
+  "first_name": "Jide",
+  "last_name": "Umar",
+  "email": "jide.umar@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T16:18:15.676Z"
+  },
+  "profile": {
+    "bio": "I am Jide, based in Petershire with interest in data integration and data analysis",
+    "avatar": "stay_wicked",
+    "skills": [
+      "data visualization",
+      "marketing",
+      "data warehousing",
+      "reading"
+    ]
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e28c3743a8ff36f4d1e6d1"
+  },
+  "user_id": "user_8",
+  "first_name": "Obinna",
+  "last_name": "Mohammed",
+  "email": "obinna.mohammed@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T16:18:15.676Z"
+  },
+  "profile": {
+    "bio": "I am Obinna, based in North Craigborough with interest in data processing and data engineering",
+    "avatar": "blessed_assurance",
+    "skills": [
+      "finance",
+      "ui/ux design",
+      "data visualization",
+      "data transformation"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e28c3743a8ff36f4d1e6d2"
+  },
+  "user_id": "user_9",
+  "first_name": "Amina",
+  "last_name": "Adewale",
+  "email": "amina.adewale@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T16:18:15.676Z"
+  },
+  "profile": {
+    "bio": "I am Amina, based in South Hunter with interest in data transformation and data modeling",
+    "avatar": "stay_wicked",
+    "skills": [
+      "data transformation",
+      "sales",
+      "data analysis",
+      "data analysis"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e28c3743a8ff36f4d1e6d3"
+  },
+  "user_id": "user_10",
+  "first_name": "Okonkwo",
+  "last_name": "Okeke",
+  "email": "okonkwo.okeke@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T16:18:15.676Z"
+  },
+  "profile": {
+    "bio": "I am Okonkwo, based in New Matthew with interest in data transformation and data modeling",
+    "avatar": "warmly_endurance",
+    "skills": [
+      "sales",
+      "data modeling",
+      "data cleaning",
+      "designing"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e28c3743a8ff36f4d1e6d4"
+  },
+  "user_id": "user_11",
+  "first_name": "Tunde",
+  "last_name": "Adeleke",
+  "email": "tunde.adeleke@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T16:18:15.676Z"
+  },
+  "profile": {
+    "bio": "I am Tunde, based in Tarabury with interest in hr and devops",
+    "avatar": "blessed_assurance",
+    "skills": [
+      "data visualization",
+      "data integration",
+      "data storage",
+      "data warehousing"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e28c3743a8ff36f4d1e6d5"
+  },
+  "user_id": "user_12",
+  "first_name": "Abdul",
+  "last_name": "Bello",
+  "email": "abdul.bello@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T16:18:15.676Z"
+  },
+  "profile": {
+    "bio": "I am Abdul, based in Port Jennifer with interest in data retrieval and it",
+    "avatar": "blessed_assurance",
+    "skills": [
+      "data mining",
+      "data warehousing",
+      "security",
+      "data retrieval"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e28c3743a8ff36f4d1e6d6"
+  },
+  "user_id": "user_13",
+  "first_name": "Blessing",
+  "last_name": "Yusuf",
+  "email": "blessing.yusuf@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T16:18:15.676Z"
+  },
+  "profile": {
+    "bio": "I am Blessing, based in Karafort with interest in data warehousing and database",
+    "avatar": "warmly_endurance",
+    "skills": [
+      "data mining",
+      "data integration",
+      "data cleaning",
+      "management"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e28c3743a8ff36f4d1e6d7"
+  },
+  "user_id": "user_14",
+  "first_name": "Ibrahim",
+  "last_name": "Alade",
+  "email": "ibrahim.alade@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T16:18:15.676Z"
+  },
+  "profile": {
+    "bio": "I am Ibrahim, based in Chavezburgh with interest in reading and reading",
+    "avatar": "stay_wicked",
+    "skills": [
+      "data storage",
+      "data modeling",
+      "data loading",
+      "data loading"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e28c3743a8ff36f4d1e6d8"
+  },
+  "user_id": "user_15",
+  "first_name": "Fatima",
+  "last_name": "Alade",
+  "email": "fatima.alade@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T16:18:15.676Z"
+  },
+  "profile": {
+    "bio": "I am Fatima, based in New Breanna with interest in data retrieval and management",
+    "avatar": "stay_wicked",
+    "skills": [
+      "management",
+      "devops",
+      "cybersecurity",
+      "sales"
+    ]
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e28c3743a8ff36f4d1e6d9"
+  },
+  "user_id": "user_16",
+  "first_name": "Kemi",
+  "last_name": "Eze",
+  "email": "kemi.eze@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T16:18:15.676Z"
+  },
+  "profile": {
+    "bio": "I am Kemi, based in Lake Sharon with interest in data visualization and writing",
+    "avatar": "brutal_tenancious",
+    "skills": [
+      "blockchain",
+      "big data",
+      "data science",
+      "finance"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e28c3743a8ff36f4d1e6da"
+  },
+  "user_id": "user_17",
+  "first_name": "Chioma",
+  "last_name": "Obi",
+  "email": "chioma.obi@eduhub.com",
+  "role": "instructor",
+  "date_joined": {
+    "$date": "2025-10-05T16:18:15.676Z"
+  },
+  "profile": {
+    "bio": "I am Chioma, based in Port Samanthachester with interest in data storage and coding",
+    "avatar": "stay_wicked",
+    "skills": [
+      "data cleaning",
+      "hr",
+      "mobile",
+      "data processing"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e28c3743a8ff36f4d1e6db"
+  },
+  "user_id": "user_18",
+  "first_name": "Amina",
+  "last_name": "Okafor",
+  "email": "amina.okafor@eduhub.com",
+  "role": "instructor",
+  "date_joined": {
+    "$date": "2025-10-05T16:18:15.677Z"
+  },
+  "profile": {
+    "bio": "I am Amina, based in West Debra with interest in data visualization and data visualization",
+    "avatar": "warmly_endurance",
+    "skills": [
+      "writing",
+      "data storage",
+      "database",
+      "reading"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e28c3743a8ff36f4d1e6dc"
+  },
+  "user_id": "user_19",
+  "first_name": "Chidinma",
+  "last_name": "Mohammed",
+  "email": "chidinma.mohammed@eduhub.com",
+  "role": "instructor",
+  "date_joined": {
+    "$date": "2025-10-05T16:18:15.677Z"
+  },
+  "profile": {
+    "bio": "I am Chidinma, based in South Benjamin with interest in data modeling and data mining",
+    "avatar": "brutal_tenancious",
+    "skills": [
+      "data visualization",
+      "it",
+      "sales",
+      "data analysis"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e28c3743a8ff36f4d1e6dd"
+  },
+  "user_id": "user_20",
+  "first_name": "Jide",
+  "last_name": "Balogun",
+  "email": "jide.balogun@eduhub.com",
+  "role": "instructor",
+  "date_joined": {
+    "$date": "2025-10-05T16:18:15.677Z"
+  },
+  "profile": {
+    "bio": "I am Jide, based in Jenniferburgh with interest in blockchain and data processing",
+    "avatar": "stay_wicked",
+    "skills": [
+      "sales",
+      "data modeling",
+      "data warehousing",
+      "data science"
+    ]
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e28c6943a8ff36f4d1e6de"
+  },
+  "user_id": "user_21",
+  "first_name": "Tosin",
+  "last_name": "Adebayo",
+  "email": "tosin.adebayo@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2023-05-20T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "I am Tosin, based in London with interest in databases and data analysis.",
+    "avatar": "curious_owl",
+    "skills": [
+      "python",
+      "mongodb",
+      "data modeling",
+      "etl"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086b0"
+  },
+  "user_id": "user_1",
+  "first_name": "Chika",
+  "last_name": "Okonkwo",
+  "email": "chika.okonkwo@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T21:47:24.899Z"
+  },
+  "profile": {
+    "bio": "I am Chika, based in Lake Kennethtown with interest in reading and data cleaning",
+    "avatar": "warmly_endurance",
+    "skills": [
+      "cybersecurity",
+      "data storage",
+      "ui/ux design",
+      "data loading"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086b1"
+  },
+  "user_id": "user_2",
+  "first_name": "Wale",
+  "last_name": "Ibrahim",
+  "email": "wale.ibrahim@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T21:47:24.899Z"
+  },
+  "profile": {
+    "bio": "I am Wale, based in Kathrynberg with interest in data science and finance",
+    "avatar": "warmly_endurance",
+    "skills": [
+      "hr",
+      "cybersecurity",
+      "blockchain",
+      "cybersecurity"
+    ]
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086b2"
+  },
+  "user_id": "user_3",
+  "first_name": "Chioma",
+  "last_name": "Bakare",
+  "email": "chioma.bakare@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T21:47:24.899Z"
+  },
+  "profile": {
+    "bio": "I am Chioma, based in North Barbara with interest in coding and big data",
+    "avatar": "brutal_tenancious",
+    "skills": [
+      "data storage",
+      "iot",
+      "networking",
+      "devops"
+    ]
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086b3"
+  },
+  "user_id": "user_4",
+  "first_name": "Ifeoma",
+  "last_name": "Ogbonna",
+  "email": "ifeoma.ogbonna@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T21:47:24.899Z"
+  },
+  "profile": {
+    "bio": "I am Ifeoma, based in Alexanderside with interest in data cleaning and data modeling",
+    "avatar": "blessed_assurance",
+    "skills": [
+      "data warehousing",
+      "iot",
+      "data engineering",
+      "devops"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086b4"
+  },
+  "user_id": "user_5",
+  "first_name": "Ifeoma",
+  "last_name": "Mustapha",
+  "email": "ifeoma.mustapha@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T21:47:24.899Z"
+  },
+  "profile": {
+    "bio": "I am Ifeoma, based in Port Meghanmouth with interest in marketing and reading",
+    "avatar": "warmly_endurance",
+    "skills": [
+      "management",
+      "data cleaning",
+      "data science",
+      "data mining"
+    ]
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086b5"
+  },
+  "user_id": "user_6",
+  "first_name": "Segun",
+  "last_name": "Yusuf",
+  "email": "segun.yusuf@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T21:47:24.899Z"
+  },
+  "profile": {
+    "bio": "I am Segun, based in Ramirezberg with interest in finance and management",
+    "avatar": "blessed_assurance",
+    "skills": [
+      "data mining",
+      "hr",
+      "cybersecurity",
+      "mobile"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086b6"
+  },
+  "user_id": "user_7",
+  "first_name": "Temitope",
+  "last_name": "Okonkwo",
+  "email": "temitope.okonkwo@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T21:47:24.899Z"
+  },
+  "profile": {
+    "bio": "I am Temitope, based in Patriciaborough with interest in data mining and data cleaning",
+    "avatar": "warmly_endurance",
+    "skills": [
+      "data visualization",
+      "security",
+      "cybersecurity",
+      "mobile"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086b7"
+  },
+  "user_id": "user_8",
+  "first_name": "Chioma",
+  "last_name": "Nwosu",
+  "email": "chioma.nwosu@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T21:47:24.899Z"
+  },
+  "profile": {
+    "bio": "I am Chioma, based in Hannahton with interest in data transformation and mobile",
+    "avatar": "brutal_tenancious",
+    "skills": [
+      "data analysis",
+      "cybersecurity",
+      "data processing",
+      "data integration"
+    ]
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086b8"
+  },
+  "user_id": "user_9",
+  "first_name": "Mohammed",
+  "last_name": "Adewale",
+  "email": "mohammed.adewale@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T21:47:24.899Z"
+  },
+  "profile": {
+    "bio": "I am Mohammed, based in Shawnland with interest in cybersecurity and cloud",
+    "avatar": "blessed_assurance",
+    "skills": [
+      "ui/ux design",
+      "coding",
+      "it",
+      "data engineering"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086b9"
+  },
+  "user_id": "user_10",
+  "first_name": "Sani",
+  "last_name": "Onyema",
+  "email": "sani.onyema@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T21:47:24.900Z"
+  },
+  "profile": {
+    "bio": "I am Sani, based in North Robert with interest in data storage and data science",
+    "avatar": "stay_wicked",
+    "skills": [
+      "data integration",
+      "writing",
+      "data retrieval",
+      "finance"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086ba"
+  },
+  "user_id": "user_11",
+  "first_name": "Amara",
+  "last_name": "Balogun",
+  "email": "amara.balogun@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T21:47:24.900Z"
+  },
+  "profile": {
+    "bio": "I am Amara, based in Josephborough with interest in data mining and cybersecurity",
+    "avatar": "blessed_assurance",
+    "skills": [
+      "big data",
+      "data integration",
+      "database",
+      "data mining"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086bb"
+  },
+  "user_id": "user_12",
+  "first_name": "Kemi",
+  "last_name": "Uche",
+  "email": "kemi.uche@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T21:47:24.900Z"
+  },
+  "profile": {
+    "bio": "I am Kemi, based in Millerview with interest in data transformation and data cleaning",
+    "avatar": "warmly_endurance",
+    "skills": [
+      "writing",
+      "data transformation",
+      "blockchain",
+      "coding"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086bc"
+  },
+  "user_id": "user_13",
+  "first_name": "Okonkwo",
+  "last_name": "Afolayan",
+  "email": "okonkwo.afolayan@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T21:47:24.900Z"
+  },
+  "profile": {
+    "bio": "I am Okonkwo, based in Michelleton with interest in data processing and cybersecurity",
+    "avatar": "warmly_endurance",
+    "skills": [
+      "iot",
+      "data modeling",
+      "coding",
+      "data visualization"
+    ]
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086bd"
+  },
+  "user_id": "user_14",
+  "first_name": "Kemi",
+  "last_name": "Bello",
+  "email": "kemi.bello@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T21:47:24.900Z"
+  },
+  "profile": {
+    "bio": "I am Kemi, based in Parkermouth with interest in data visualization and data integration",
+    "avatar": "stay_wicked",
+    "skills": [
+      "data storage",
+      "data mining",
+      "data processing",
+      "data loading"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086be"
+  },
+  "user_id": "user_15",
+  "first_name": "Eze",
+  "last_name": "Onyia",
+  "email": "eze.onyia@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T21:47:24.900Z"
+  },
+  "profile": {
+    "bio": "I am Eze, based in Lake Kimberly with interest in data loading and sales",
+    "avatar": "brutal_tenancious",
+    "skills": [
+      "data storage",
+      "data analysis",
+      "database",
+      "data loading"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086bf"
+  },
+  "user_id": "user_16",
+  "first_name": "Olu",
+  "last_name": "Chukwu",
+  "email": "olu.chukwu@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T21:47:24.900Z"
+  },
+  "profile": {
+    "bio": "I am Olu, based in Deniseside with interest in coding and data retrieval",
+    "avatar": "warmly_endurance",
+    "skills": [
+      "data science",
+      "data warehousing",
+      "data warehousing",
+      "it"
+    ]
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086c0"
+  },
+  "user_id": "user_17",
+  "first_name": "Deborah",
+  "last_name": "Mustapha",
+  "email": "deborah.mustapha@eduhub.com",
+  "role": "instructor",
+  "date_joined": {
+    "$date": "2025-10-05T21:47:24.900Z"
+  },
+  "profile": {
+    "bio": "I am Deborah, based in Stacyland with interest in management and data analysis",
+    "avatar": "stay_wicked",
+    "skills": [
+      "data processing",
+      "ui/ux design",
+      "reading",
+      "data cleaning"
+    ]
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086c1"
+  },
+  "user_id": "user_18",
+  "first_name": "Ade",
+  "last_name": "Okoh",
+  "email": "ade.okoh@eduhub.com",
+  "role": "instructor",
+  "date_joined": {
+    "$date": "2025-10-05T21:47:24.900Z"
+  },
+  "profile": {
+    "bio": "I am Ade, based in East Dakota with interest in data visualization and data visualization",
+    "avatar": "brutal_tenancious",
+    "skills": [
+      "data analysis",
+      "iot",
+      "data loading",
+      "it"
+    ]
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086c2"
+  },
+  "user_id": "user_19",
+  "first_name": "Kunle",
+  "last_name": "Chukwu",
+  "email": "kunle.chukwu@eduhub.com",
+  "role": "instructor",
+  "date_joined": {
+    "$date": "2025-10-05T21:47:24.900Z"
+  },
+  "profile": {
+    "bio": "I am Kunle, based in Christineview with interest in designing and data modeling",
+    "avatar": "warmly_endurance",
+    "skills": [
+      "data science",
+      "designing",
+      "data mining",
+      "iot"
+    ]
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e2d95cd9abc9eb13d086c3"
+  },
+  "user_id": "user_20",
+  "first_name": "Segun",
+  "last_name": "Adewale",
+  "email": "segun.adewale@eduhub.com",
+  "role": "instructor",
+  "date_joined": {
+    "$date": "2025-10-05T21:47:24.900Z"
+  },
+  "profile": {
+    "bio": "I am Segun, based in Murphystad with interest in data analysis and data transformation",
+    "avatar": "stay_wicked",
+    "skills": [
+      "data analysis",
+      "data cleaning",
+      "data integration",
+      "hr"
+    ]
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e2dc56c3defe6ef29302d3"
+  },
+  "user_id": "user_1",
+  "first_name": "Zara",
+  "last_name": "Okeke",
+  "email": "zara.okeke@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T22:00:06.898Z"
+  },
+  "profile": {
+    "bio": "I am Zara, based in North Emilyberg with interest in cloud and sales",
+    "avatar": "blessed_assurance",
+    "skills": [
+      "data integration",
+      "reading",
+      "data engineering",
+      "ui/ux design"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2dc56c3defe6ef29302d4"
+  },
+  "user_id": "user_2",
+  "first_name": "Zara",
+  "last_name": "Bakare",
+  "email": "zara.bakare@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T22:00:06.898Z"
+  },
+  "profile": {
+    "bio": "I am Zara, based in Port Laurenborough with interest in data analysis and hr",
+    "avatar": "blessed_assurance",
+    "skills": [
+      "data modeling",
+      "management",
+      "sales",
+      "data engineering"
+    ]
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e2dc56c3defe6ef29302d5"
+  },
+  "user_id": "user_3",
+  "first_name": "Ibrahim",
+  "last_name": "Mohammed",
+  "email": "ibrahim.mohammed@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T22:00:06.898Z"
+  },
+  "profile": {
+    "bio": "I am Ibrahim, based in West Kevin with interest in data warehousing and data analysis",
+    "avatar": "brutal_tenancious",
+    "skills": [
+      "data processing",
+      "marketing",
+      "finance",
+      "data mining"
+    ]
+  },
+  "is_active": false
+},
+{
+  "_id": {
+    "$oid": "68e2dc56c3defe6ef29302d6"
+  },
+  "user_id": "user_4",
+  "first_name": "Adanna",
+  "last_name": "Bakare",
+  "email": "adanna.bakare@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T22:00:06.898Z"
+  },
+  "profile": {
+    "bio": "I am Adanna, based in South Karenport with interest in data analysis and hr",
+    "avatar": "warmly_endurance",
+    "skills": [
+      "data retrieval",
+      "data integration",
+      "it",
+      "networking"
+    ]
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "68e2dc56c3defe6ef29302d7"
+  },
+  "user_id": "user_5",
+  "first_name": "Okonkwo",
+  "last_name": "Akintola",
+  "email": "okonkwo.akintola@eduhub.com",
+  "role": "student",
+  "date_joined": {
+    "$date": "2025-10-05T22:00:06.898Z"
+  },
+  "profile": {
+    "bio": "I am Okonkwo, based in West Sarah with interest in ui/ux design and data warehousing",
+    "avatar": "stay_wicked",
+    "skills": [
+      "data modeling",
+      "data science",
+      "sales",
+      "data cleaning"
+    ]
+  },
+  "is_active": true
+}]

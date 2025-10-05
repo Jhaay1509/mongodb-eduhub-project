@@ -1,0 +1,640 @@
+[{
+  "_id": {
+    "$oid": "68e296c643a8ff36f4d1e701"
+  },
+  "assignment_id": "assignment_1",
+  "student_id": [
+    "student1",
+    "student2",
+    "student3",
+    "student4",
+    "student5",
+    "student6",
+    "student7",
+    "student8",
+    "student9",
+    "student10",
+    "student11",
+    "student12",
+    "student13",
+    "student14",
+    "student15",
+    "student16"
+  ],
+  "lesson_id": "lesson_1",
+  "course_id": "course_1",
+  "due_date": {
+    "$date": "2025-10-10T17:03:18.217Z"
+  },
+  "description": "This assignment test on Troubleshooting",
+  "grade": "D",
+  "grade_point": 0
+},
+{
+  "_id": {
+    "$oid": "68e296c643a8ff36f4d1e702"
+  },
+  "assignment_id": "assignment_2",
+  "student_id": [
+    "student1",
+    "student2",
+    "student3",
+    "student4",
+    "student5",
+    "student6",
+    "student7",
+    "student8",
+    "student9",
+    "student10",
+    "student11",
+    "student12",
+    "student13",
+    "student14",
+    "student15",
+    "student16"
+  ],
+  "lesson_id": "lesson_2",
+  "course_id": "course_1",
+  "due_date": {
+    "$date": "2025-10-13T17:03:18.217Z"
+  },
+  "description": "This assignment test on Advanced Techniques",
+  "grade": "A",
+  "grade_point": 1
+},
+{
+  "_id": {
+    "$oid": "68e296c643a8ff36f4d1e703"
+  },
+  "assignment_id": "assignment_3",
+  "student_id": [
+    "student1",
+    "student2",
+    "student3",
+    "student4",
+    "student5",
+    "student6",
+    "student7",
+    "student8",
+    "student9",
+    "student10",
+    "student11",
+    "student12",
+    "student13",
+    "student14",
+    "student15",
+    "student16"
+  ],
+  "lesson_id": "lesson_3",
+  "course_id": "course_1",
+  "due_date": {
+    "$date": "2025-10-17T17:03:18.217Z"
+  },
+  "description": "This assignment test on Case Study",
+  "grade": "A",
+  "grade_point": 4
+},
+{
+  "_id": {
+    "$oid": "68e296c643a8ff36f4d1e704"
+  },
+  "assignment_id": "assignment_4",
+  "student_id": [
+    "student1",
+    "student2",
+    "student3",
+    "student4",
+    "student5",
+    "student6",
+    "student7",
+    "student8",
+    "student9",
+    "student10",
+    "student11",
+    "student12",
+    "student13",
+    "student14",
+    "student15",
+    "student16"
+  ],
+  "lesson_id": "lesson_4",
+  "course_id": "course_2",
+  "due_date": {
+    "$date": "2025-10-26T17:03:18.217Z"
+  },
+  "description": "This assignment test on Core Concepts",
+  "grade": "D",
+  "grade_point": 4
+},
+{
+  "_id": {
+    "$oid": "68e296c643a8ff36f4d1e705"
+  },
+  "assignment_id": "assignment_5",
+  "student_id": [
+    "student1",
+    "student2",
+    "student3",
+    "student4",
+    "student5",
+    "student6",
+    "student7",
+    "student8",
+    "student9",
+    "student10",
+    "student11",
+    "student12",
+    "student13",
+    "student14",
+    "student15",
+    "student16"
+  ],
+  "lesson_id": "lesson_5",
+  "course_id": "course_2",
+  "due_date": {
+    "$date": "2025-10-28T17:03:18.217Z"
+  },
+  "description": "This assignment test on Advanced Techniques",
+  "grade": "B",
+  "grade_point": 1
+},
+{
+  "_id": {
+    "$oid": "68e296c643a8ff36f4d1e706"
+  },
+  "assignment_id": "assignment_6",
+  "student_id": [
+    "student1",
+    "student2",
+    "student3",
+    "student4",
+    "student5",
+    "student6",
+    "student7",
+    "student8",
+    "student9",
+    "student10",
+    "student11",
+    "student12",
+    "student13",
+    "student14",
+    "student15",
+    "student16"
+  ],
+  "lesson_id": "lesson_6",
+  "course_id": "course_2",
+  "due_date": {
+    "$date": "2025-11-01T17:03:18.217Z"
+  },
+  "description": "This assignment test on Best Practices",
+  "grade": "B+",
+  "grade_point": 3
+},
+{
+  "_id": {
+    "$oid": "68e296c643a8ff36f4d1e707"
+  },
+  "assignment_id": "assignment_7",
+  "student_id": [
+    "student1",
+    "student2",
+    "student3",
+    "student4",
+    "student5",
+    "student6",
+    "student7",
+    "student8",
+    "student9",
+    "student10",
+    "student11",
+    "student12",
+    "student13",
+    "student14",
+    "student15",
+    "student16"
+  ],
+  "lesson_id": "lesson_7",
+  "course_id": "course_3",
+  "due_date": {
+    "$date": "2025-10-08T17:03:18.217Z"
+  },
+  "description": "This assignment test on Advanced Techniques",
+  "grade": "A-",
+  "grade_point": 2.7
+},
+{
+  "_id": {
+    "$oid": "68e296c643a8ff36f4d1e708"
+  },
+  "assignment_id": "assignment_8",
+  "student_id": [
+    "student1",
+    "student2",
+    "student3",
+    "student4",
+    "student5",
+    "student6",
+    "student7",
+    "student8",
+    "student9",
+    "student10",
+    "student11",
+    "student12",
+    "student13",
+    "student14",
+    "student15",
+    "student16"
+  ],
+  "lesson_id": "lesson_8",
+  "course_id": "course_3",
+  "due_date": {
+    "$date": "2025-10-30T17:03:18.217Z"
+  },
+  "description": "This assignment test on Introduction",
+  "grade": "A-",
+  "grade_point": 3.7
+},
+{
+  "_id": {
+    "$oid": "68e296c643a8ff36f4d1e709"
+  },
+  "assignment_id": "assignment_9",
+  "student_id": [
+    "student1",
+    "student2",
+    "student3",
+    "student4",
+    "student5",
+    "student6",
+    "student7",
+    "student8",
+    "student9",
+    "student10",
+    "student11",
+    "student12",
+    "student13",
+    "student14",
+    "student15",
+    "student16"
+  ],
+  "lesson_id": "lesson_9",
+  "course_id": "course_3",
+  "due_date": {
+    "$date": "2025-10-28T17:03:18.217Z"
+  },
+  "description": "This assignment test on Assessment",
+  "grade": "F",
+  "grade_point": 3.7
+},
+{
+  "_id": {
+    "$oid": "68e296c643a8ff36f4d1e70a"
+  },
+  "assignment_id": "assignment_10",
+  "student_id": [
+    "student1",
+    "student2",
+    "student3",
+    "student4",
+    "student5",
+    "student6",
+    "student7",
+    "student8",
+    "student9",
+    "student10",
+    "student11",
+    "student12",
+    "student13",
+    "student14",
+    "student15",
+    "student16"
+  ],
+  "lesson_id": "lesson_10",
+  "course_id": "course_4",
+  "due_date": {
+    "$date": "2025-10-19T17:03:18.218Z"
+  },
+  "description": "This assignment test on Case Study",
+  "grade": "C+",
+  "grade_point": 0
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef293030b"
+  },
+  "assignment_id": "assignment_1",
+  "student_id": [
+    "student1",
+    "student2",
+    "student3",
+    "student4",
+    "student5",
+    "student6",
+    "student7",
+    "student8",
+    "student9",
+    "student10",
+    "student11",
+    "student12",
+    "student13",
+    "student14",
+    "student15",
+    "student16"
+  ],
+  "lesson_id": "lesson_1",
+  "course_id": "course_1",
+  "due_date": {
+    "$date": "2025-11-02T22:00:07.053Z"
+  },
+  "description": "This assignment test on Hands-on Practice",
+  "grade": "F",
+  "grade_point": 0
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef293030c"
+  },
+  "assignment_id": "assignment_2",
+  "student_id": [
+    "student1",
+    "student2",
+    "student3",
+    "student4",
+    "student5",
+    "student6",
+    "student7",
+    "student8",
+    "student9",
+    "student10",
+    "student11",
+    "student12",
+    "student13",
+    "student14",
+    "student15",
+    "student16"
+  ],
+  "lesson_id": "lesson_2",
+  "course_id": "course_1",
+  "due_date": {
+    "$date": "2025-10-12T22:00:07.053Z"
+  },
+  "description": "This assignment test on Review",
+  "grade": "D",
+  "grade_point": 1
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef293030d"
+  },
+  "assignment_id": "assignment_3",
+  "student_id": [
+    "student1",
+    "student2",
+    "student3",
+    "student4",
+    "student5",
+    "student6",
+    "student7",
+    "student8",
+    "student9",
+    "student10",
+    "student11",
+    "student12",
+    "student13",
+    "student14",
+    "student15",
+    "student16"
+  ],
+  "lesson_id": "lesson_3",
+  "course_id": "course_1",
+  "due_date": {
+    "$date": "2025-10-25T22:00:07.053Z"
+  },
+  "description": "This assignment test on Core Concepts",
+  "grade": "D",
+  "grade_point": 1
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef293030e"
+  },
+  "assignment_id": "assignment_4",
+  "student_id": [
+    "student1",
+    "student2",
+    "student3",
+    "student4",
+    "student5",
+    "student6",
+    "student7",
+    "student8",
+    "student9",
+    "student10",
+    "student11",
+    "student12",
+    "student13",
+    "student14",
+    "student15",
+    "student16"
+  ],
+  "lesson_id": "lesson_4",
+  "course_id": "course_2",
+  "due_date": {
+    "$date": "2025-10-15T22:00:07.053Z"
+  },
+  "description": "This assignment test on Optimization",
+  "grade": "B+",
+  "grade_point": 3.3
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef293030f"
+  },
+  "assignment_id": "assignment_5",
+  "student_id": [
+    "student1",
+    "student2",
+    "student3",
+    "student4",
+    "student5",
+    "student6",
+    "student7",
+    "student8",
+    "student9",
+    "student10",
+    "student11",
+    "student12",
+    "student13",
+    "student14",
+    "student15",
+    "student16"
+  ],
+  "lesson_id": "lesson_5",
+  "course_id": "course_2",
+  "due_date": {
+    "$date": "2025-10-08T22:00:07.053Z"
+  },
+  "description": "This assignment test on Hands-on Practice",
+  "grade": "A-",
+  "grade_point": 3.7
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930310"
+  },
+  "assignment_id": "assignment_6",
+  "student_id": [
+    "student1",
+    "student2",
+    "student3",
+    "student4",
+    "student5",
+    "student6",
+    "student7",
+    "student8",
+    "student9",
+    "student10",
+    "student11",
+    "student12",
+    "student13",
+    "student14",
+    "student15",
+    "student16"
+  ],
+  "lesson_id": "lesson_6",
+  "course_id": "course_2",
+  "due_date": {
+    "$date": "2025-10-24T22:00:07.053Z"
+  },
+  "description": "This assignment test on Best Practices",
+  "grade": "F",
+  "grade_point": 0
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930311"
+  },
+  "assignment_id": "assignment_7",
+  "student_id": [
+    "student1",
+    "student2",
+    "student3",
+    "student4",
+    "student5",
+    "student6",
+    "student7",
+    "student8",
+    "student9",
+    "student10",
+    "student11",
+    "student12",
+    "student13",
+    "student14",
+    "student15",
+    "student16"
+  ],
+  "lesson_id": "lesson_7",
+  "course_id": "course_3",
+  "due_date": {
+    "$date": "2025-10-10T22:00:07.053Z"
+  },
+  "description": "This assignment test on Troubleshooting",
+  "grade": "B+",
+  "grade_point": 2.7
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930312"
+  },
+  "assignment_id": "assignment_8",
+  "student_id": [
+    "student1",
+    "student2",
+    "student3",
+    "student4",
+    "student5",
+    "student6",
+    "student7",
+    "student8",
+    "student9",
+    "student10",
+    "student11",
+    "student12",
+    "student13",
+    "student14",
+    "student15",
+    "student16"
+  ],
+  "lesson_id": "lesson_8",
+  "course_id": "course_3",
+  "due_date": {
+    "$date": "2025-10-10T22:00:07.053Z"
+  },
+  "description": "This assignment test on Troubleshooting",
+  "grade": "C+",
+  "grade_point": 2.3
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930313"
+  },
+  "assignment_id": "assignment_9",
+  "student_id": [
+    "student1",
+    "student2",
+    "student3",
+    "student4",
+    "student5",
+    "student6",
+    "student7",
+    "student8",
+    "student9",
+    "student10",
+    "student11",
+    "student12",
+    "student13",
+    "student14",
+    "student15",
+    "student16"
+  ],
+  "lesson_id": "lesson_9",
+  "course_id": "course_3",
+  "due_date": {
+    "$date": "2025-10-31T22:00:07.053Z"
+  },
+  "description": "This assignment test on Best Practices",
+  "grade": "C+",
+  "grade_point": 2.3
+},
+{
+  "_id": {
+    "$oid": "68e2dc57c3defe6ef2930314"
+  },
+  "assignment_id": "assignment_10",
+  "student_id": [
+    "student1",
+    "student2",
+    "student3",
+    "student4",
+    "student5",
+    "student6",
+    "student7",
+    "student8",
+    "student9",
+    "student10",
+    "student11",
+    "student12",
+    "student13",
+    "student14",
+    "student15",
+    "student16"
+  ],
+  "lesson_id": "lesson_10",
+  "course_id": "course_4",
+  "due_date": {
+    "$date": "2025-11-01T22:00:07.053Z"
+  },
+  "description": "This assignment test on Best Practices",
+  "grade": "B+",
+  "grade_point": 3.3
+}]
